@@ -21,6 +21,7 @@
 
 ### :books: Repos & projects
 In this profile you will find most of my work, structured by projects & courses
+
 Both from school & from my free time
 
 ## :left_speech_bubble: How to reach me for help/projects/collaboration :left_speech_bubble:
