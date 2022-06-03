@@ -20,9 +20,9 @@
 - Plans to learn JavaScript, Webassembly, HTML5 & Python :watch:
 
 ### :books: Repos & projects
-In this profile you will find most of my work, structured by projects & courses
+In this profile you will find most of my work, structured by projects & courses :night_with_stars:
 
-Both from school & from my free time :school: :night_with_stars:
+Both from school & from my free time :school:
 
 ## :left_speech_bubble: How to reach me for help/projects/collaboration :left_speech_bubble:
 
