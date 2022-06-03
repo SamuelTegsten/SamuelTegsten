@@ -1,10 +1,10 @@
-# Welcome to the profile of Samuel Tegsten!  
+# Welcome to the profile of Samuel Tegsten! 👋 
 
-## Computer enthusiast with a passion for software software engineering & cybersecurity 
+## Computer enthusiast with a passion for software software engineering & cybersecurity :computer:
 
-### I am currently studying computer technology in my 2:nd year at the Royal institute of technology in Stockholm-Sweden.
+### I am currently studying computer technology in my 2:nd year at the Royal institute of technology in Stockholm-Sweden. :sweden:
 
-## My courses in the area of computer technology and engineering practices have so far included:
+#### My courses in the area of computer technology and engineering practices have so far included:
 - Information technology and engineering methodology :heavy_check_mark:	
 - Linear algebra and analysis	:heavy_check_mark:
 - Programming, basic course in C :heavy_check_mark:	
