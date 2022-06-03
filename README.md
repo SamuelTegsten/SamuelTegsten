@@ -2,7 +2,7 @@
 
 ## Computer enthusiast with a passion for software engineering & cybersecurity :computer: :closed_lock_with_key:
 
-### I am currently studying computer technology in my 2:nd year at the Royal institute of technology in Stockholm-Sweden. :sweden:
+### I am currently studying computer technology in my 2:nd year at the Royal institute of technology in Stockholm-Sweden  :sweden:
 
 #### My courses in the area of computer technology and engineering practices have so far included:
 - Information technology and engineering methodology :heavy_check_mark:	
@@ -14,18 +14,15 @@
 - Operating system :heavy_check_mark:
 - Project course in computer and network technology (SDL in C) :heavy_check_mark:
 
-## My interests & current projects
+## My interests & current projects 👀
 - Learning about entrepreneurship & engineering economics :chart:
 - Learning Java & Object Oriented programming :coffee:
 - Plans to learn JavaScript, Webassembly, HTML5 & Python :watch:
 
 ## :left_speech_bubble: How to reach me for help/projects/collaboration :left_speech_bubble:
 
-
-- 👋 Hi, I’m @SamuelTegsten
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Private: samuel.tegsten@gmail.com
+- 📫 School: stegsten@kth.se
+- :camera: Instagram: samuel_tegsten (DM for number)
 
 
