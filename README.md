@@ -19,6 +19,9 @@
 - Learning Java & Object Oriented programming :coffee:
 - Plans to learn JavaScript, Webassembly, HTML5 & Python :watch:
 
+### :books: Repos & projects
+In this profile you will find most of my work, structured by projects & courses  
+
 ## :left_speech_bubble: How to reach me for help/projects/collaboration :left_speech_bubble:
 
 - 📫 Private: samuel.tegsten@gmail.com
