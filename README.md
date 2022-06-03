@@ -1,6 +1,6 @@
 # Welcome to the profile of Samuel Tegsten! 👋 
 
-## Computer enthusiast with a passion for software engineering & cybersecurity :computer:
+## Computer enthusiast with a passion for software engineering & cybersecurity :computer: :closed_lock_with_key:
 
 ### I am currently studying computer technology in my 2:nd year at the Royal institute of technology in Stockholm-Sweden. :sweden:
 
