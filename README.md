@@ -17,7 +17,7 @@
 - Learning Java & Object Oriented programming
 - 
 
-### How to reach me for help/projects/collaboration
+### :left_speech_bubble: How to reach me for help/projects/collaboration :left_speech_bubble:
 
 
 - 👋 Hi, I’m @SamuelTegsten
