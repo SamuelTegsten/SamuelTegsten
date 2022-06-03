@@ -15,9 +15,9 @@
 - Project course in computer and network technology (SDL in C) :heavy_check_mark:
 
 ## My interests & current projects
-- 
-- Learning Java & Object Oriented programming
-- 
+- Learning about entrepreneurship & engineering economics :chart:
+- Learning Java & Object Oriented programming :coffee:
+- Plans to learn JavaScript, Webassembly, HTML5 & Python :watch:
 
 ## :left_speech_bubble: How to reach me for help/projects/collaboration :left_speech_bubble:
 
