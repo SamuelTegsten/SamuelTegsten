@@ -12,12 +12,12 @@
 - Operating system
 - Project course in computer and network technology (SDL in C)
 
-## My interests & current projects
+### My interests & current projects
 - 
 - Learning Java & Object Oriented programming
 - 
 
-## How to reach me for help/projects/collaboration
+### How to reach me for help/projects/collaboration
 
 
 - 👋 Hi, I’m @SamuelTegsten
