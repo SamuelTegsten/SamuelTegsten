@@ -1,6 +1,6 @@
-- Welcome to the profile of Samuel Tegsten! 
+# Welcome to the profile of Samuel Tegsten! 
 
-- I am currently studying computer technology in my 2:nd year at the Royal institute of technology in Sweden/Stockholm.
+## I am currently studying computer technology in my 2:nd year at the Royal institute of technology in Sweden/Stockholm.
 
 - 👋 Hi, I’m @SamuelTegsten
 - 👀 I’m interested in ...
