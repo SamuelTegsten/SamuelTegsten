@@ -29,5 +29,6 @@ Both from school & from my free time :school:
 - 📫 Private: samuel.tegsten@gmail.com
 - 📫 School: stegsten@kth.se
 - :camera: Instagram: samuel_tegsten (DM for number)
+- :briefcase: Linkedin: https://www.linkedin.com/in/samuel-tegsten-8a94b822a/
 
 
