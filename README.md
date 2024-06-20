@@ -2,8 +2,6 @@
 
 ## Computer enthusiast with a passion for software engineering & cybersecurity :computer: :closed_lock_with_key:
 
-### I am currently studying computer technology in my last year at the Royal institute of technology in Stockholm-Sweden  :sweden:
-
 ## My interests & current projects 👀
 - Learning about entrepreneurship & engineering economics :chart:
 - Learning Java & Object Oriented programming :coffee:
