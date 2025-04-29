@@ -4,8 +4,8 @@
 
 ## My interests & current projects 👀
 - Learning about entrepreneurship & engineering economics :chart:
-- Learning Java & Object Oriented programming :coffee:
-- Plans to learn JavaScript, Webassembly, HTML5 & Python :watch:
+- Learning Big data and data architecture :coffee:
+- Actively working on multiple projects :watch:
 
 ### :books: Repos & projects
 In this profile you will find most of my work, structured by projects & courses :night_with_stars:
