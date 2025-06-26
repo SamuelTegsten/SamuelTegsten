@@ -1,22 +1,17 @@
-# Welcome to the profile of Samuel Tegsten! 👋 
+# Welcome to my profile! 👋 
 
-## Computer enthusiast with a passion for software engineering & cybersecurity :computer: :closed_lock_with_key:
+## Computer enthusiast with a passion for software engineering :computer: :closed_lock_with_key:
 
-## My interests & current projects 👀
-- Learning about entrepreneurship & engineering economics :chart:
-- Learning Big data and data architecture :coffee:
-- Actively working on multiple projects :watch:
+Im a Software Engineer with a BSc in Computer Science & Engineering from KTH.
+Experience in R&D at KTH and systems development at Tele2, with a strong foundation in software engineering, cybersecurity, and network architecture.
 
-### :books: Repos & projects
-In this profile you will find most of my work, structured by projects & courses :night_with_stars:
+Skilled in backend, frontend, and fullstack development with Java and modern tools including Python, C, TypeScript, SQL, Docker, Git, Linux and much more. Proven ability to design robust, secure, and maintainable systems.
+Six years in retail have strengthened my collaboration, problem-solving, and customer insight.
 
-Both from school & from my free time :school:
+Driven by precision, clarity, and continuous improvement.
+📬 samuel.tegsten@gmail.com | 
 
-## :left_speech_bubble: How to reach me for help/projects/collaboration :left_speech_bubble:
-
-- 📫 Private: samuel.tegsten@gmail.com
-- 📫 School: stegsten@kth.se
-- :camera: Instagram: samuel_tegsten (DM for number)
-- :briefcase: Linkedin: https://www.linkedin.com/in/samuel-tegsten-8a94b822a/
+🔗 Portfolio
+https://samueltegsten.github.io/MyProfilePage/
 
 
